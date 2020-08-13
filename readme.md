@@ -10,7 +10,7 @@ go run main.go --port 9991
 
 go run main.go --port 9992
 
-### [启动微服务客户端](https://github.com/guobinqiu/microservice-b)
+### 启动微服务客户端
 
 go run main.go
 
